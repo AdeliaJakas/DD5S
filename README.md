@@ -4,23 +4,23 @@
 ikuti Command di bawah ini
 
 
-$pkg install perl
+pkg install perl
 
 
-$pkg install git
+pkg install git
 
 
-$apt install python2
+apt install python2
 
-$apt install python
+apt install python
 
-$pkg install bash
+pkg install bash
 
-$pkg install ruby
+pkg install ruby
 
-$gem install lolcat
+gem install lolcat
 
-$pkg install figlet
+pkg install figlet
 
 
 
