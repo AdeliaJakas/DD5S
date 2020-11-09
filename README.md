@@ -2,9 +2,12 @@
 1.Siapkan Teman Buat Ddos
 2.Siapkan Vpn biar aman:v
 ikuti Command di bawah ini
+
+
 $pkg install perl
 
-pkg install git
+
+$pkg install git
 
 
 $apt install python2
